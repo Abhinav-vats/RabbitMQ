@@ -1,6 +1,5 @@
 spring:
     rabbitmq:
-        host: localhost
-        port: 5672
-        username: guest
-        password: guest
+        host: https://b-16b6bcbf-f6f5-4a59-a621-f804f9d59dd9.mq.ap-south-1.amazonaws.com
+        username: abhi123up
+        password: Guest@123456
