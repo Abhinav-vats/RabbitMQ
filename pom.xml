@@ -78,6 +78,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
+		<finalName>app-mq</finalName>
 	</build>
 
 </project>
